@@ -5,15 +5,15 @@
 
     "plugins": [
         "disqus" , 
-        "github" ,
-        "tocstyles"
+        //"github" ,
+        //"tocstyles"
     ],
     "pluginsConfig": {
-        "shortName": "zoomquiet2gitbooks4lpy2"
-        , "tocstyles" : [ "", "cjk-ideographic", "decimal-leading-zero" ]
-        , "github": {
-              "url": "https://github.com/ZoomQuiet/OMOOC2py"
-            }
+        "shortName": "zq4gitbooks4omooc2py2content"
+        //, "tocstyles" : [ "", "cjk-ideographic", "decimal-leading-zero" ]
+        //, "github": {
+        //      "url": "https://github.com/ZoomQuiet/OMOOC2py"
+        //    }
     }
 }
 
