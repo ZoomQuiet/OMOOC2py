@@ -3,10 +3,9 @@
     "description": "OMOOC.py tutorial for teching",
     "author": "OMOOC-support <omooc-support@googlegroups.com>",
 
-    "plugins": [
-        "disqus" , 
-        //"github" ,
-        //"tocstyles"
+    "plugins": ["disqus" 
+        //, "github" 
+        //, "tocstyles"
     ],
     "pluginsConfig": {
         "shortName": "zq4gitbooks4omooc2py2content"
